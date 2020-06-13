@@ -2,7 +2,6 @@
 """
 Created on Sat Sep  2 21:16:56 2017
 
-@author: Ashish Kumar Jayant
 @title: Hackerearth sentiment analysis problem : Predict Happiness Challenge 
 """
 
