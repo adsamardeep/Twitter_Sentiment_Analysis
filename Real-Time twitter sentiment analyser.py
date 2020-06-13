@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 25 16:22:07 2017
-
-@author: Ashish Kumar Jayant
 @title: Tweet Sentiment Analyser (mainly for reviews,complaints and feedbacks,
                                   not so good for political conversations)
 
