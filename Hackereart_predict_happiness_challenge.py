@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep  2 21:16:56 2017
-
 @title: Hackerearth sentiment analysis problem : Predict Happiness Challenge 
 """
 
